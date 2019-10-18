@@ -12,7 +12,7 @@
 
 		<div class="breadcrumb-line">
 			<ul class="breadcrumb">
-				<li><i class="icon-home2 position-left"></i> Trang chủ</li>
+				<li><i class="icon-home2 position-left"></i> Trang chủ 123123</li>
 
 			</ul>
 		</div>
