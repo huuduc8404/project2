@@ -4,7 +4,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-8">
-			<h1 class="entry-title entry-prop">Đăng tin Phòng trọ</h1>
+			<h1 class="entry-title entry-prop">Đăng tin Phòng trọ 123</h1>
 			<hr>
 			<div class="panel panel-default">
 				<div class="panel-heading">Thông tin bắt buộc*</div>
